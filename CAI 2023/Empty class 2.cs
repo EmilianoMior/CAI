@@ -5,6 +5,7 @@ namespace CAI_2023
 	{
 		public Empty_class_2()
 		{
+			Console.WriteLine("hola");
 		}
 	}
 }
