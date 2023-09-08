@@ -1,3 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
+﻿using System;
+namespace CAI2023_Negocio
+{
+    public class Negocio_Administrador
+    {
+        public Negocio_Administrador()
+        {
+        }
+    }
+}

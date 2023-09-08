@@ -1,11 +1,17 @@
 ﻿using System;
 namespace CAI_2023
 {
-	public class Vendedor
+	public class Vendedor : Persona
 	{
-		public Vendedor()
-		{
-		}
+        public void Venta()
+        {
+            Console.WriteLine("completar");
+        }
+
+        public void Reporteventasporvendedor()
+        {
+            Console.WriteLine("completar");
+        }
 	}
 }
 
