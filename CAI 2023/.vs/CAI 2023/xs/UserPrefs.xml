@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="{DD979325-28BA-4455-9E08-781CC71FDDC8}|Default">
+  <MonoDevelop.Ide.ItemProperties.CAI2023__Entidades FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Cai2023__CapaDatos FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CAI2023__Negocio FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CAI_2202023 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CAI2023__Consola FirstBuild="True" />
 </Properties>

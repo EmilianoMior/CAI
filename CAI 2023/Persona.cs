@@ -1,9 +1,9 @@
 ﻿using System;
 namespace CAI_2023
 {
-	public class EmptyClass
+	public class Persona
 	{
-		public EmptyClass()
+		public Persona()
 		{
 		}
 	}
